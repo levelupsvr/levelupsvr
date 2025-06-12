@@ -4,7 +4,7 @@
 
 📍 Kochi, India  
 📫 [levelupsvr24@gmail.com](mailto:levelupsvr24@gmail.com)  
-🔗 [GitHub](https://github.com/levelupsvr) • [LinkedIn](https://linkedin.com/in/sivanandana-r-pillai-86b0822b3)
+🔗 [LinkedIn](https://linkedin.com/in/sivanandana-r-pillai-86b0822b3)
 
 ---
 
