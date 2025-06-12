@@ -22,13 +22,5 @@ turning complex calculations into simple, elegant tools.
 
 ---
 
-## Skills
-
-**Languages & Frameworks:** Python · JavaScript · Node.js · C · React.js · Next.js · Vue.js  
-**Design & Tools:** Figma · Photoshop · Git · Tailwind CSS  
-**Cybersecurity:** Cryptography · Hashing Fundamentals  
-**Core Strengths:**  UI/UX thinking · Problem-solving
-
----
 
 
