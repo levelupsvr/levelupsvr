@@ -11,7 +11,7 @@
 ## About Me
 
 I'm a Computer Science undergrad with a focus on cybersecurity who codes with curiosity and full-stack development.  
-From building sleek web apps to securing systems and automating tasks with Discord bots,  
+From building sleek websites to securing systems and automating tasks with Discord bots,  
 I’m always building, breaking, and learning.
 
 I’ve contributed to college-wide platforms, led event websites, and developed tools with real impact.  
