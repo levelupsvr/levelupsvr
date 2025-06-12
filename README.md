@@ -1,40 +1,33 @@
 # Sivanandana R Pillai
 
-**B.Tech CSE Student | Developer | Designer**  
+> Engineering clarity, security, and creativity into everything I build.
+
 📍 Kochi, India  
 📫 [levelupsvr24@gmail.com](mailto:levelupsvr24@gmail.com)  
 🔗 [GitHub](https://github.com/levelupsvr) • [LinkedIn](https://linkedin.com/in/sivanandana-r-pillai-86b0822b3)
 
 ---
 
-## Projects
+## About Me
 
-- **Shreshta ’25 Website** – Official site for MITS techno-cultural fest  
-  _Next.js · Tailwind CSS · Git_
+I'm a Computer Science undergrad with a focus on cybersecurity who codes with curiosity and full-stack development.  
+From building sleek web apps to securing systems and automating tasks with Discord bots.  
+I’m always building, breaking, and learning.
 
-- **TEDxMITS 2025 Website** – Rebuilt for performance and scalability  
-  _React.js · Nuxt.js · Tailwind CSS_
+I’ve contributed to college-wide platforms, led event websites, and developed tools with real impact.  
+Currently leveling up across development, design, and cybersecurity—with a focus on doing things right (and a little differently).
 
-- **CORE Robotics Conclave Website** – IEEE RAS MITS national event platform  
-  _Next.js · Figma · Tailwind CSS_
-
-- **HashBreaker Lite** – Python utility for ethical hash cracking  
-  _Python · hashlib · Requests_
-
+Right now, I’m building something useful for students who like knowing exactly what they need to pass—  
+turning complex calculations into simple, elegant tools.
 ---
 
 ## Skills
 
-**Frontend:** React.js, Next.js, Vue.js, JavaScript, Tailwind CSS  
-**Backend:** Python, Node.js, C, Java  
-**Tools:** Git, Figma, Photoshop  
-**Cybersecurity:** Cryptography, Hashing  
-**Databases:** SQL
+**Languages & Frameworks:** Python · JavaScript · Node.js · C · React.js · Next.js · Vue.js  
+**Design & Tools:** Figma · Photoshop · Git · Tailwind CSS  
+**Cybersecurity:** Cryptography · Hashing Fundamentals  
+**Core Strengths:** System design · UI/UX thinking · Problem-solving
 
 ---
 
-## Certifications
-
-- Cryptography & Hashing – Udemy  
-- Linguaskill Business English – Cambridge
 
